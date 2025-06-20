@@ -1,0 +1,37 @@
+body{
+    height: 900px;
+    width: 900px;
+    background-color: black;
+    color: white;
+   
+    /* display: flex; */
+
+
+}
+table{
+    height: 200px;
+    width: 400px;
+    border: 3px solid red;
+    align-items: center;
+    text-align: center;
+  
+    
+    
+    
+}
+th{
+    background-color: blue;
+    border: 0.5px solid black;
+}
+tr{
+    background-color: blueviolet;
+    border: 1px solid pink;
+}
+h1{
+    background-color: yellow;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    color: red;
+    border: 2px solid aquamarine;
+}
